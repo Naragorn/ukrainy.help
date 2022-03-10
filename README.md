@@ -14,7 +14,7 @@ This project intends to help Ukrainian people during the ongoing [Russo-Ukrainia
 
 ## Implementation
 # Web
-[Web App Architecture](https://github.com/Naragorn/ukraine-help/tree/main/web/README.md)
+[Web App Architecture](https://github.com/Naragorn/ukraine-help/tree/main/web)
 
 # SMS
 TODO
