@@ -1,5 +1,3 @@
-# ukrainy.help - SMS alternative
+# ukrainy.help - SMS alternative/feature
 
 ## Architecture
-
-![web-app-architecture](doc/web-app-architecture.png "web-app-architecture")
