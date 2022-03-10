@@ -13,8 +13,8 @@ This project intends to help Ukrainian people during the ongoing [Russo-Ukrainia
 
 
 ## Implementation
-# Web
+### Web
 [Web App Architecture](https://github.com/Naragorn/ukraine-help/tree/main/web)
 
-# SMS
+### SMS
 TODO
