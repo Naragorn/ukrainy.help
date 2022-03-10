@@ -4,9 +4,8 @@ This project intends to help Ukrainian people during the ongoing [Russo-Ukrainia
 
 ## Current discussions:
 
-- [Create a e-mail server to use @ukrainy.help emails](https://github.com/Naragorn/ukraine-help/issues/3)
-
--> Discussion and todos/work items has moved to the [project board](https://github.com/users/Naragorn/projects/1), please see if you have access otherwise contact the maintainers
+- mail@ukrainy.help emails are beeing redirected to our personal accouts
+- Discussion and todos/work items has moved to the [project board](https://github.com/users/Naragorn/projects/1), please see if you have access otherwise contact the maintainers
 
 
 ## Implementation
