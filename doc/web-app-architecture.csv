@@ -1,0 +1,21 @@
+Id,Name,Shape Library,Page ID,Contained By,Group,Line Source,Line Destination,Source Arrow,Destination Arrow,Status,Text Area 1
+1,Document,,,,,,,,,,Ukraine help app WEB
+2,Page,,,,,,,,,,AWS serverless web app hosting
+3,AWS Cloud,AWS Architecture 2019,2,,,,,,,,AWS Cloud
+4,Amazon Simple Storage Service (S3),AWS Architecture 2019,2,3,,,,,,,S3
+5,Amazon CloudFront,AWS Architecture 2019,2,3,,,,,,,CloudFront (CDN)
+6,Amazon API Gateway,AWS Architecture 2019,2,3,,,,,,,Amazon  API Gateway
+7,AWS Lambda,AWS Architecture 2019,2,3,,,,,,,Lambda
+8,Amazon DynamoDB,AWS Architecture 2019,2,3,,,,,,,"NoSQL DB (DocumentDM, Mongo DB), should provide geo-locations"
+9,Phone,Google Cloud Platform,2,,,,,,,,Phone
+10,AWS Amplify,AWS Architecture 2019,2,3,,,,,,,Leverage AWS Amplify to set all  other resources up and provide build pipelines for main + develop branch and infrastructure
+11,GitHub,Azure 2015,2,3,,,,,,,GitHub (open-sourced that way people can easily add functionality just by submitting a pull request))
+12,Line,,2,,,5,4,Arrow,None,,"S3 bucket(s) host static website content.
+e.g HTML, CSS, JS, media, etc."
+13,Line,,2,,,9,5,None,None,,
+14,Line,,2,,,6,7,None,Arrow,,
+15,Line,,2,,,7,8,None,Arrow,,
+16,Line,,2,,,9,6,None,Arrow,,"The app's backend receives
+dynamic API calls"
+17,Line,,2,,,11,10,None,None,,main
+18,Line,,2,,,11,10,None,None,,develop
