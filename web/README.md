@@ -1,4 +1,4 @@
-# ukrainy.help - SMS alternative
+# ukrainy.help - Web alternative
 
 ## Architecture
 
