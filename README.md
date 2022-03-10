@@ -4,12 +4,9 @@ This project intends to help Ukrainian people during the ongoing [Russo-Ukrainia
 
 ## Current discussions:
 
-- Save the ukrainy.help domain
-  - Which license is most fitting??? 
-  - Create a e-mail server to use @ukrainy.help emails
-  - ???
+- [Create a e-mail server to use @ukrainy.help emails](https://github.com/Naragorn/ukraine-help/issues/3)
 
--> Discussion and todos/work items has moved to the project board, please see if you have access otherwise contact the maintainers
+-> Discussion and todos/work items has moved to the [project board](https://github.com/users/Naragorn/projects/1), please see if you have access otherwise contact the maintainers
 
 
 ## Implementation
