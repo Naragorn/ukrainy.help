@@ -1,4 +1,4 @@
-### ukrainy.help
+# ukrainy.help
 
 This project intends to help Ukrainian people during the ongoing [Russo-Ukrainian War](https://en.wikipedia.org/wiki/Russo-Ukrainian_War).
 
