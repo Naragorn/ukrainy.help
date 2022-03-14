@@ -1,0 +1,15 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ukrainyhelp-prod-110138-authRole",
+      "UnauthRoleArn": "arn:aws:iam::902227072526:role/amplify-ukrainyhelp-prod-110138-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::902227072526:role/amplify-ukrainyhelp-prod-110138-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-ukrainyhelp-prod-110138-deployment",
+      "UnauthRoleName": "amplify-ukrainyhelp-prod-110138-unauthRole",
+      "StackName": "amplify-ukrainyhelp-prod-110138",
+      "StackId": "arn:aws:cloudformation:eu-central-1:902227072526:stack/amplify-ukrainyhelp-prod-110138/217a2180-a386-11ec-80c7-06a51b47056a",
+      "AmplifyAppId": "dh0wzs0pmeich"
+    }
+  }
+}
