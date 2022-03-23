@@ -4,7 +4,7 @@ This project intends to help Ukrainian people during the ongoing [Russo-Ukrainia
 
 ## Current discussions:
 
-- mail@ukrainy.help emails are beeing redirected to our personal accouts
+- mail@ukrainy.help emails are beeing redirected to our personal accouts, the email is ukrainy.help@gmail.com
 - Discussion and todos/work items has moved to the [project board](https://github.com/users/Naragorn/projects/1), please see if you have access otherwise contact the maintainers
 
 
